@@ -1,4 +1,4 @@
-<h1 align="center">Hola, soy Miriam 👋</h1>
+<h1 align="center">Hola, soy Miriam!! </h1>
 
 <p align="center">
   <strong>Estudiante de Desarrollo de Aplicaciones Web | Graduada en Criminología </strong>
